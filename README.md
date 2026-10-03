@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="CountDown: Count down to anything." width="100%">
+</p>
+
 # CountDown
 
-**Count down to anything.** A countdown to any date and time, a Pomodoro timer for focused work, presets, alarm sounds and a background of your own.
+**Count down to anything.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+A countdown to any date and time, a Pomodoro timer for focused work, presets, alarm sounds and a background of your own.
 
 Free, for any Mac, Apple silicon or Intel, macOS 15.4 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
